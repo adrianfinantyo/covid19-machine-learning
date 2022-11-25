@@ -4,5 +4,5 @@
 
 <center>Bonifasius Ariesto Adrian Finantyo - 00000042580</center>
 <center>Frederich Elisafan Latuputty - 00000044441</center>
-<center>Nama - NIM</center>
+<center>Charisma Christ Anugrah - 00000043903</center>
 <center>Nama - NIM</center>
