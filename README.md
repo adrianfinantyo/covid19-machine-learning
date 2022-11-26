@@ -1,8 +1,8 @@
-# <center>PREDIKSI TINGKAT KEPARAHAN COVID 19 DENGAN MENGGUNAKAN ALGORITMA SUPPORT VECTOR MACHINE DAN LINEAR DISCRIMINANT ANALYSIS</center>
+# PREDIKSI TINGKAT KEPARAHAN COVID 19 DENGAN MENGGUNAKAN ALGORITMA SUPPORT VECTOR MACHINE DAN LINEAR DISCRIMINANT ANALYSIS
 
-### <center>Penelitian ini dilakukan oleh:</center>
+### Penelitian ini dilakukan oleh:
 
-<center>Bonifasius Ariesto Adrian Finantyo - 00000042580</center>
-<center>Frederich Elisafan Latuputty - 00000044441</center>
-<center>Nama - NIM</center>
-<center>Nama - NIM</center>
+Bonifasius Ariesto Adrian Finantyo - 00000042580<br />
+Frederich Elisafan Latuputty - 00000044441<br />
+Nama - NIM<br />
+Nama - NIM<br />
